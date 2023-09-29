@@ -2,7 +2,7 @@
   Used test-driven development
     ✕ Used Jest to pre-test code, saved in `pretest.txt` (1 ms)
   Source code is valid
-    ✕ HTML validates without errors (2 ms)
+    ✓ HTML validates without errors (2 ms)
     ✕ CSS validates without errors (77 ms)
   Has required HTML
     ✕ Specifies charset (1 ms)
